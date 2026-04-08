@@ -1,5 +1,4 @@
 # Customer-Churn-Analysis
-Prediction of customer churned using python/ machine learning and analyzing customer data using power bi and data cleaning, sorting using sql/Excel. 
 # 📊 Data Analytics Project: Python, Excel, SQL & Power BI
 
 ## 🚀 Overview
@@ -14,40 +13,6 @@ This project is a comprehensive end-to-end data analytics solution that integrat
 * **SQL** – Data extraction, querying, and database management
 * **Excel** – Data preprocessing and quick exploratory analysis
 * **Power BI** – Interactive dashboards and data visualization
-
----
-
-## 📁 Project Structure
-
-```
-project/
-│
-├── data/
-│   ├── raw/                  # Raw datasets
-│   ├── processed/            # Cleaned datasets
-│
-├── python/
-│   ├── data_cleaning.py      # Data cleaning scripts
-│   ├── analysis.py           # Data analysis scripts
-│   ├── utils.py              # Helper functions
-│
-├── sql/
-│   ├── schema.sql            # Database schema
-│   ├── queries.sql           # Analytical queries
-│
-├── excel/
-│   ├── preprocessing.xlsx    # Excel-based data prep
-│
-├── powerbi/
-│   ├── dashboard.pbix        # Power BI dashboard file
-│
-├── outputs/
-│   ├── reports/              # Generated reports
-│   ├── visuals/              # Exported charts/images
-│
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
-```
 
 ---
 
@@ -188,16 +153,9 @@ Feel free to fork this repo and submit a pull request.
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 📬 Contact
-
-For questions or feedback, reach out via GitHub Issues or email.
-
+email : iamabrarahmed07@gmail.com 
+linkedin : Shaik Abrar Ahmed
 ---
 
 ⭐ If you found this project useful, please consider giving it a star!
